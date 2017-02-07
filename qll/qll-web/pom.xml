@@ -8,10 +8,10 @@
     <version>1.0-SNAPSHOT</version>
   </parent>
   <groupId>com.qll</groupId>
-  <artifactId>qll-front</artifactId>
+  <artifactId>qll-web</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>war</packaging>
-  <name>qll-front Maven Webapp</name>
+  <name>qll-web Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -22,6 +22,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>qll-front</finalName>
+    <finalName>qll-web</finalName>
   </build>
 </project>
